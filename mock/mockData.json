@@ -1,0 +1,17 @@
+{
+  "rows": [
+    {
+      "rannking": 1,
+      "area": "成都",
+      "agent": 5,
+      "masterNum": 20
+    },
+    {
+      "rannking": 2,
+      "area": "重庆",
+      "agent": 5,
+      "masterNum": 15
+    }
+  ],
+  "total": 2
+}
